@@ -1,0 +1,15 @@
+{
+  "Test": {
+    "kpi_values": [
+      "Poster Packing: 54 per hour"
+    ]
+  },
+  "Johnny": {
+    "kpi_values": [
+      "Display Building: 22 per hour",
+      "Display Building: 43 per hour",
+      "Display Building: 25 per hour",
+      "Display Building: 77 per hour"
+    ]
+  }
+}
